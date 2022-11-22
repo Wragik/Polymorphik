@@ -1,0 +1,3 @@
+﻿  Polymorph.cpp
+C:\Users\wardik\Desktop\program\Polymorph\Polymorph\Polymorph.cpp(176,9): error C2374: mass: переопределение; множественная инициализация
+C:\Users\wardik\Desktop\program\Polymorph\Polymorph\Polymorph.cpp(168): message : см. объявление "mass"
